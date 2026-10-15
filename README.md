@@ -166,7 +166,7 @@ Explore my repositories to discover my development work, technical experiments a
 I'm always interested in connecting with developers, collaborating on projects and learning about new technologies.
 
 - 📧 Email: [pbcharith01@gmail.com](mailto:pbcharith01@gmail.com)
-- 💼 LinkedIn: [Connect with me](https://tinyurl.com/Charith-linkedIn)
+- 💼 LinkedIn: [Sai Charith Puttabakula](https://tinyurl.com/Charith-linkedIn)
 - 🐙 GitHub: [Pbk-Charith](https://github.com/Pbk-Charith)
 
 ---
