@@ -1,4 +1,11 @@
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5555&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer+%7C+React.js+%7C+TypeScript;JavaScript+%7C+Redux+Toolkit+%7C+REST+APIs;Node.js+%7C+Express.js+%7C+MongoDB;Software+Engineer+%7C+AI%2FML+Enthusiast"
+    alt="Typing animation"
+  />
+</p>
+
 <h1 align="center">👋 Hey, I'm Sai Charith Puttabakula</h1>
 
 <h3 align="center">
