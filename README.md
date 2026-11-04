@@ -40,7 +40,7 @@
 - 🧠 Exploring Generative AI, AI-assisted development and prompt engineering
 - 🛠️ Interested in automation, application performance and scalable software solutions
 - 🌱 Continuously learning and improving my engineering skills
-- 🗄️ Experienced with database technologies including MongoDB, MySQL and PostgreSQL
+- 🗄️ Experienced with database technologies including MongoDB, MySQL, Mongoose and PostgreSQL
 
 ---
 
@@ -95,7 +95,7 @@
 
 ### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose,mysql,postgresql" />
 </p>
 
 ### Development Tools
@@ -122,14 +122,14 @@
 | Languages | JavaScript, TypeScript, SQL |
 | Frontend | React.js, HTML5, CSS3, SCSS, Bootstrap |
 | State Management | Redux Toolkit |
-| Backend | Node.js, Express.js |
+| Backend | Node.js, Express.js, Mongoose, REST APIs, GraphQL |
 | APIs | REST APIs, GraphQL, Axios, Postman |
 | Databases | MongoDB, MySQL |
 | Testing | API Testing, Regression Testing, Functional Testing, Integration Testing |
 | Engineering | Git, GitHub, Debugging, Root Cause Analysis |
 | Methodologies | Agile, Waterfall, SDLC, Release Management |
 | AI Tools | ChatGPT, Claude, Copilot, Gemini, Cursor AI |
-| Databases | MongoDB, MySQL, PostgreSQL |
+| Databases & ODM | MongoDB, Mongoose, MySQL, PostgreSQL, SQL |
 
 ---
 
